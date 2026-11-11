@@ -1,0 +1,63 @@
+# LungVicks Official USA
+
+> LungVicks is a premium herbal respiratory supplement delivering cool relief for tired lungs — bedtime formula, herbal botanical blend, healthy lung function support, USA-made.
+
+## What is LungVicks?
+
+LungVicks is a premium herbal respiratory supplement designed around a unique bedtime "cool relief" approach to lung wellness. Unlike generic respiratory supplements, LungVicks is formulated to be taken at bedtime, allowing its natural herbal blend to work in alignment with the body's overnight repair and recovery cycle. Users report waking up with noticeably fresher, clearer airways — interrupting the cycle of morning chest heaviness and daytime breathing fatigue that chronic daily air exposure creates.
+
+LungVicks is manufactured in a GMP-certified facility in the United States. It contains 60 capsules per bottle (30-day supply at 2 capsules daily) and is formulated with non-GMO natural herbal ingredients. It is a one-time purchase — no subscription, no auto-renewal.
+
+## Key Ingredients
+
+| Ingredient | Role |
+|---|---|
+| Mullein Leaf Extract | Traditional lung herb — soothes bronchial tissue, supports mucus clearance |
+| Peppermint Leaf Extract | Cool airway comfort — menthol delivers refreshing open-breathing sensation |
+| Licorice Root Extract | Soothing expectorant — anti-inflammatory, helps thin airway secretions |
+| Thyme Herb Extract | Antimicrobial, antispasmodic — historical European respiratory herb |
+| N-Acetyl Cysteine (NAC) | Mucolytic antioxidant — breaks mucus bonds, replenishes glutathione |
+| Vitamin C | Structural lung support — collagen synthesis, airway antioxidant defense |
+| Zinc | Immune defense at airway mucosa — first-line protection against airborne pathogens |
+
+## Why Take LungVicks at Bedtime?
+
+LungVicks is designed as a bedtime supplement because the respiratory system's natural mucus clearance (mucociliary clearance) and tissue repair processes are most active during sleep. Overnight, cilia sweep accumulated particles, irritants, and mucus out of airways. Taking LungVicks before bed aligns its herbal formula with these natural overnight processes — supporting the clearance of the day's accumulated airway burden so users wake up with fresher, more open airways rather than the chest tightness many accept as a normal morning feeling.
+
+## Who LungVicks Is Designed For
+
+- People living in areas with elevated air pollution or seasonal allergen loads (see [American Lung Association air quality data](https://www.lung.org/clean-air/outdoors/who-is-at-risk/air-pollution))
+- Those experiencing chronic morning chest heaviness, congestion, or daytime breathing fatigue
+- Adults seeking natural, herbal respiratory support without pharmaceutical intervention
+- Anyone wanting to protect lung tissue from long-term oxidative damage from daily pollutant exposure
+- Seasonal allergy sufferers looking for year-round airway resilience
+
+## Pricing (Official USA — November 2026)
+
+| Package | Bottles | Days Supply | Per Bottle | Total | Shipping |
+|---|---|---|---|---|---|
+| Starter | 2 | 60 days | $79/bottle | $158 | +$9.99 US shipping |
+| Most Popular | 3 | 90 days | $69/bottle | $207 | FREE US shipping |
+| Best Value | 6 | 180 days | $49/bottle | $294 | FREE US shipping |
+
+All packages include the 60-day 100% money-back guarantee. One-time purchase only.
+
+## 60-Day Guarantee
+
+Every LungVicks order is backed by a 100% satisfaction, 60-day money-back guarantee. If not satisfied for any reason within 60 days of purchase, full refund — no questions asked.
+
+## Research References
+
+- [American Lung Association — Air Quality & Lung Health](https://www.lung.org/clean-air/outdoors/who-is-at-risk/air-pollution)
+- [NHLBI — How the Lungs Work](https://www.nhlbi.nih.gov/health/lungs)
+- [NIH PubMed — Respiratory Research](https://pubmed.ncbi.nlm.nih.gov/)
+- [NIH National Library of Medicine](https://www.ncbi.nlm.nih.gov/)
+- [NIH ODS — Vitamin C Fact Sheet](https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/)
+- [FDA — Dietary Supplements](https://www.fda.gov/food/dietary-supplements)
+
+## Legal
+
+Manufacturer: GMP-Certified USA Facility | Manufactured in United States | Non-GMO Formula
+Not evaluated by the FDA. Not intended to diagnose, treat, cure, or prevent any disease. For adults 18+.
+
+Official site: https://lungvicks-us.vercel.app/
